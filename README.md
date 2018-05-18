@@ -5,4 +5,7 @@ Hamdan Basri
 ---
 
 ## Lecture List
+* BT01 - Intro, Notes & Assets
+* BT02 - Battletank Overview
+* BT03 - Game Design Document (GDD)
 * BT04 - Setting Up A Github Repo
