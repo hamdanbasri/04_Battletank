@@ -5,5 +5,5 @@ Hamdan Basri
 
 ---
 
-##Lecture List
-BT04 - Setting Up A Github Repo
+## Lecture List
+* BT04 - Setting Up A Github Repo
